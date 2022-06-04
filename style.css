@@ -1,0 +1,172 @@
+
+
+body{
+	font-family: Arial, Roboto, sans-serif;
+}
+.lastname{
+	font-family: Arial, Roboto, sans-serif;
+	color: darkred;
+	font-weight: bolder;
+}
+.fname{
+	font-family: Arial, Roboto, sans-serif;
+	color: #000;
+	/*font-weight: bold;*/
+}
+.icon-color{
+	color: #fff;
+}
+
+h1:hover{
+	color: orange;
+}
+.col-me{
+	font-size: 15px;
+}
+.col-me:hover{
+	color: orange;
+}
+
+.back-img{
+	width: 500px;
+	height: 350px;
+	background-repeat: no-repeat;
+}
+
+.container1{
+	background: #fff url('./images/wall2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.7);
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+	overflow: hidden;
+}
+
+.container2{
+	background: #fff url('./images/wall2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.7);
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+}
+
+.my-profile{
+	 width: 300px;
+	 height: 300px;
+	 border: 5px solid #00BFFF;
+	 border-radius: 100%;
+	 background-color: rgba(255,255,255, .3);
+}
+
+.my-profile:hover{
+	 border: 5px solid orange;
+}
+
+.my-profile2{
+	 width: 250px;
+	 height: 250px;
+	 border: 5px solid #00BFFF;
+	 border-radius: 100%;
+	 background-color: rgba(0,0,0, .5);
+}
+
+.my-profile2:hover{
+	 border: 5px solid orange;
+}
+
+h4{
+	font-weight: bolder;
+}
+h4:hover{
+	color: #00BFFF;
+}
+
+.about-me{
+	color: #fff;
+}
+
+
+.brand{
+	text-decoration: none;
+}
+
+.right-m{
+	margin-right: 10px;
+}
+
+ img{
+ 	padding: 5px;
+ }
+
+.con{
+	padding: 10px;
+}
+.wide{
+	padding: 10px;
+}
+.card-pad{
+	padding: 5px;
+	box-sizing: border-box;
+}
+.img-prog{
+	width: 80px;
+	height: 80px;
+}
+.tick-green{
+	color: green;
+}
+ .right{
+ 	text-align: right;
+ 	padding: 10px;
+ 	margin-left: 80%;
+ }
+ .left-a{
+ 	text-align: left;
+ 	margin-left: 10%;
+ }
+ .fb-icon{
+ 	font-size: 25px;
+ 	color: #fff;
+ }
+
+.nav-center{
+	margin-left: 50%;
+	margin-right: 50%;
+}
+.text-ind{
+	text-indent: 20px;
+	color: #2f2f2f;
+}
+
+.back-g{
+	background-color: #D3D3D3;
+}
+
+.text-j{
+	text-justify:  inherit;
+	text-align: justify inter-word;
+}
+.educ-card{
+	padding: 10px;
+	margin: 10px;
+
+}
+.shadow-msg{
+	background-color: #6495ed;
+	border-radius: 5px;
+}
+.quote{
+	background-size: cover;
+	background: url('asset/images/wall.jpg');
+	background-size: cover;
+}
+
+.nav-view{
+	color: white;
+}
+
+.nav-view:hover{
+	color: orange;
+}
